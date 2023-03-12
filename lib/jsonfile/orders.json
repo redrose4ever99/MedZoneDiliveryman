@@ -1,0 +1,39 @@
+{"success":true,
+  "data":
+  [{"id":135,
+    "code":"O3664293",
+    "status":"تعذر التوصيل",
+    "total":"660000",
+    "products":
+    [{"offer":"21",
+      "price":"30000.0",
+      "amount":"1","product":"40"},
+      {"offer":"21","price":"30000.0","amount":"1","product":"52"}
+    ,{"offer":"21","price":"30000.0","amount":"5","product":"51"}
+    ,{"offer":"21","price":"30000.0","amount":"6","product":"36"}
+    ,{"offer":"21","price":"30000.0","amount":"5","product":"42"},
+      {"offer":"21","price":"30000.0","amount":"4","product":"4"}],
+    "customer_id":"4",
+    "person_id":"2",
+    "user_id":null,
+    "created_at":"2023-02-15T09:01:33.000000Z",
+    "updated_at":"2023-02-20T10:45:31.000000Z",
+    "deleted_at":null,
+    "customer":
+    {"id":4,"code":"C8209266",
+      "full_name":"الدكتور باسل منذر",
+      "business_name":"Dt.teeth",
+      "mobile":"931457258","land_phone":"5653035",
+      "customer_speciality_id":"1","bussiness_type_id":"2",
+      "area_id":"1","sector_id":"5","sub_address_id":"18",
+      "street_id":"23","marker_id":"123","business_hours_id":"3",
+      "vendor_id":null,"insurance_id":"2","location_type_id":"1",
+      "detailed_address":"ساحة السيوف الشارع العام اول مدخل جناين بناية صفايا طابق اول",
+      "staff_id":"1","size_id":"3","decor_id":"1","power_id":"2","behaviour_id":"1",
+      "notes":"مركز فاتح جديد\n","documents":[{"document":null}],"rating":"A",
+      "secretary_name":null,"deleted_at":null,"secretary_mobile":null,
+      "created_at":"2023-01-15T09:37:14.000000Z","updated_at":"2023-02-14T09:03:52.000000Z"}},
+    {"id":143,"code":"O2371624","status":"تعذر التوصيل","total":"30000",
+      "products":[{"offer":null,"price":"30000.0","amount":"1","product":"36"}],
+      "customer_id":"3","person_id":"2","user_id":null,"created_at":"2023-02-16T10:58:16.000000Z",
+      "updated_at":"2023-02-20T07:18:07.000000Z","deleted_at":null,"customer":{"id":3,"code":"C8650022","full_name":"يوسف يعقوب حنو","business_name":"العيادة التخصصية في علاج جذور العصب وتجميل الأسنان","mobile":"938602020","land_phone":"5633887","customer_speciality_id":"6","bussiness_type_id":"3","area_id":"1","sector_id":"4","sub_address_id":"11","street_id":"14","marker_id":"89","business_hours_id":"3","vendor_id":null,"insurance_id":"2","location_type_id":"2","detailed_address":"شارع الروضة الرئيسي بعد دخلة قسم الكهرباء-جانب نهاوند Cafe- قبو","staff_id":"3","size_id":"4","decor_id":"2","power_id":"2","behaviour_id":"1","notes":"جميع المواد من لبنان","documents":[{"document":null}],"rating":"B","secretary_name":"لبنى عباس","deleted_at":null,"secretary_mobile":"994077087","created_at":"2023-01-15T09:35:06.000000Z","updated_at":"2023-01-15T09:35:06.000000Z"}},{"id":145,"code":"O5640238","status":"تم قبول الطلب","total":"120000","products":[{"offer":"22","price":"30000.0","amount":"3","product":"38"},{"offer":"21","price":"30000.0","amount":"1","product":"36"}],"customer_id":"3","person_id":"2","user_id":null,"created_at":"2023-02-19T12:38:06.000000Z","updated_at":"2023-02-20T11:47:39.000000Z","deleted_at":null,"customer":{"id":3,"code":"C8650022","full_name":"يوسف يعقوب حنو","business_name":"العيادة التخصصية في علاج جذور العصب وتجميل الأسنان","mobile":"938602020","land_phone":"5633887","customer_speciality_id":"6","bussiness_type_id":"3","area_id":"1","sector_id":"4","sub_address_id":"11","street_id":"14","marker_id":"89","business_hours_id":"3","vendor_id":null,"insurance_id":"2","location_type_id":"2","detailed_address":"شارع الروضة الرئيسي بعد دخلة قسم الكهرباء-جانب نهاوند Cafe- قبو","staff_id":"3","size_id":"4","decor_id":"2","power_id":"2","behaviour_id":"1","notes":"جميع المواد من لبنان","documents":[{"document":null}],"rating":"B","secretary_name":"لبنى عباس","deleted_at":null,"secretary_mobile":"994077087","created_at":"2023-01-15T09:35:06.000000Z","updated_at":"2023-01-15T09:35:06.000000Z"}}],"message":"Orders Fetched Successfuly"}
